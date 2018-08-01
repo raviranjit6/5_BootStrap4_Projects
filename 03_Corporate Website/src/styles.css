@@ -1,0 +1,58 @@
+.carousel .carousel-indicators li {
+    max-width: 30px;
+    height: 20px;
+    width: 20px;
+    border-radius: 10% !important;
+    cursor: pointer;
+}
+
+.text-teal{
+    color: #00796b;
+}
+
+.up-arrow{
+    margin-top: -120px;
+}
+
+
+/* Text Area */
+
+.basic-textarea textarea {
+    height: auto;
+}
+.rounded-corners textarea {
+    border-radius: 0.25rem;
+}
+
+.rounded-corners textarea:focus{
+    border: 2px solid #4687f4;
+}
+
+#card-image{
+    margin-top: -50px;
+}
+
+.trainer-card:hover{
+    background-color:#00796b;
+}
+
+#facebook , #github , #twitter{
+    color: #00796b;
+}
+
+.trainer-card:hover p{
+    color: white;
+}
+.trainer-card:hover h3{
+    color: white;
+}
+.trainer-card:hover #facebook{
+    color: white;
+}
+.trainer-card:hover #twitter{
+    color: white;
+}
+.trainer-card:hover #github{
+    color: white;
+}
+
